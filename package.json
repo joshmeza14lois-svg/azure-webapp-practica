@@ -1,0 +1,10 @@
+{
+  "name": "azure-webapp-practica",
+  "version": "1.0.0",
+  "description": "Simple static web for Azure App Service",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo build complete",
+    "test": "echo test complete"
+  }
+}
